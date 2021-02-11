@@ -1,0 +1,31 @@
+#EXTM3U
+
+#EXTINF:-1 ,Canal Bolivision
+https://bo-bolivision-lapaz-live.ned.media/bolivision/smil:lapaz.smil/chunklist_b1200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjEzMDkyNzIwLCJzZXNzaW9uIjoiMTgxLjExNS4yNDguMTk0Iiwid2hpdGVsaXN0IjpbIjI4MDA6Y2QwOmZmMjc6NDIwMDphOTVlOmY2ZTQ6ZmMzZjplOWZiIl19LCJzaWduYXR1cmUiOiI4N2ViY2UxODEzYjcxMjQwMzQxZWRlMmU1YmRmNmQ1ZjEzZDFiMzA2In0%3D
+
+#EXTINF:-1 ,Canal RTP
+http://136.243.3.70:1935/RtpBolivia/RtpBolivia/chunklist_w269562860.m3u8
+
+#EXTINF:-1 ,UPP TV
+https://bo-bolivision-santacruz-live.ned.media/bolivision/smil:santacruz.smil/chunklist_b1200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjEzMDk0MzU1LCJzZXNzaW9uIjoiMTgxLjExNS4yNDguMTk0Iiwid2hpdGVsaXN0IjpbIjI4MDA6Y2QwOmZmMjc6NDIwMDphOTVlOmY2ZTQ6ZmMzZjplOWZiIl19LCJzaWduYXR1cmUiOiIxY2Q5ODg2MzZiZDAyYzI5ZGVlMzNlMjNlYjJkNDU1NTMyYThkMWEwIn0%3D
+
+
+#EXTINF:-1 ,UNITEL
+https://stream-04.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl2DQJNi06kclJy-GSTzMwVA)/dm/3/x7wzxiw/d/live-2.m3u8
+
+#EXTINF:-1 ,ATB
+https://clientes.videostreaming.ar:19360/atbbolivia/atbbolivia.m3u8
+
+#EXTINF:-1 ,PAT
+https://5975e06a1f292.streamlock.net:4443/patbolivia/patlapaz/chunklist_w178317320.m3u8
+
+#EXTINF:-1 ,BOLIVIA TV
+https://5fe2654d6127d.streamlock.net/boliviatv/videoboliviatv/chunklist_w916919549.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMS8yMDIxIDI6MTQ6NTcgQU0maGFzaF92YWx1ZT1PNVVjY0lzaVo5bFd4NWNWN0Fkdkx3PT0mdmFsaWRtaW51dGVzPTUwJmlkPQ%3D%3D
+
+#EXTINF:-1 ,PANAMERICANA
+https://cdnhd.iblups.com/hls/ptv2.m3u8
+
+#EXTINF:-1 ,ATV PERU
+https://pe-atv-atv-live.ned.media/atv/smil:atv.smil/chunklist_b1024000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjEzMDk2NjMyLCJzZXNzaW9uIjoiMTgxLjExNS4yNDguMTk0Iiwid2hpdGVsaXN0IjpbIjI4MDA6Y2QwOmZmMjc6NDIwMDphOTVlOmY2ZTQ6ZmMzZjplOWZiIl19LCJzaWduYXR1cmUiOiIyYmM5NWJiN2ZhYzcyMjE4Yjg4ZDA1ZGFhNDlkZGU5M2JhNjgxMjYzIn0%3D
+
+
